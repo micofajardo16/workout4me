@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+mobile app for my workouts made this shit just for me but u can try.
+so that when im working out all i gotta do is press a button and ill follow a strict routine
+only counts down rest but doesn't stopwatch a particular exercise
